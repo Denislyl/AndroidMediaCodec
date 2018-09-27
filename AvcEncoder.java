@@ -1,4 +1,4 @@
-package com.orbbec.astra.u3d;
+package com.avc.demo;
 
 import java.io.File;
 import java.io.FileNotFoundException;
